@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+#booklist{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div{
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
